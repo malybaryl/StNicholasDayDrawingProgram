@@ -34,13 +34,13 @@ The St. Nicholas Day Drawing Program is a simple C++ program designed to help yo
 
 2. Build program by cmake.
 
-   type in your console:
+   Open your console in program folder and type (example for Ubuntu):
                                                                
    cd build                                  
    cmake ..                                                
    make                                                          
    cd source                                                      
-   ./run.exe                                                               
+   ./run                                                               
 
 3. Follow the on-screen instructions to enter participant names and conduct the drawing.
 
