@@ -1,5 +1,0 @@
-C:/Programming/cpp/Code/StNicholasDayDrawingProgram/build/CMakeFiles/edit_cache.dir
-C:/Programming/cpp/Code/StNicholasDayDrawingProgram/build/CMakeFiles/rebuild_cache.dir
-C:/Programming/cpp/Code/StNicholasDayDrawingProgram/build/source/CMakeFiles/run.dir
-C:/Programming/cpp/Code/StNicholasDayDrawingProgram/build/source/CMakeFiles/edit_cache.dir
-C:/Programming/cpp/Code/StNicholasDayDrawingProgram/build/source/CMakeFiles/rebuild_cache.dir
