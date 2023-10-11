@@ -32,6 +32,4 @@ void drawNames(std::vector<std::string> nameList,std::vector<std::string>& drewP
         }
     }
 
-    drewPeople.push_back(drewPeople[0]);
-
 }
