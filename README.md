@@ -42,7 +42,7 @@ The St. Nicholas Day Drawing Program is a simple C++ program designed to help yo
    cd source                                                      
    ./run
 
-   Open your console in program folder and type (windows MinGW64):
+   Open your console in program folder and type (example for Windows MinGW64):
 
    cd build                           
    cmake .. -G "MinGW Makefiles"            
